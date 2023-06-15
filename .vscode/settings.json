@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.pl": "prolog",
+        "in.h": "c"
+    },
+    "cmake.sourceDirectory": "/home/Proyects/SO/Web Server Final"
+}
